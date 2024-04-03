@@ -15,5 +15,5 @@ def fibonacci(n):
 n = int(input("Enter the number of terms: "))
 fibonacci_seq = fibonacci(n)
 print(fibonacci_seq)
-
+print("Go Brewers!")
 
